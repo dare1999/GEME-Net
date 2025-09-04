@@ -1,5 +1,6 @@
 # GEME-Net
 This project implements a passenger flow prediction task based on knowledge distillation. The project includes two main models:
+<img width="816" height="549" alt="image" src="https://github.com/user-attachments/assets/8f18057e-041e-4cb9-a699-a82c8919aa00" />
 
 Teacher Model: a pre-trained large model that generates soft labels for prediction.
 
